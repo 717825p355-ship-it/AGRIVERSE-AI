@@ -1,0 +1,12 @@
+{
+  "name": "AgriAI Assistant",
+  "description": "AI-powered agriculture career, crop recommendation, and farming guidance assistant, with support for uneducated users, voice, and offline modes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

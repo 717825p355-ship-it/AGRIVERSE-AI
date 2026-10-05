@@ -1,0 +1,22 @@
+{
+  "short_name": "AgriGPT",
+  "name": "AgriGPT - Android Smart Agriculture AI",
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#064e3b",
+  "theme_color": "#047857",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "AI-powered crop recommendation, leaf disease diagnosis, and smart farming assistant for Android mobile devices."
+}
